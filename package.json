@@ -1,0 +1,20 @@
+{
+  "name": "eCommerceInventory",
+  "version": "1.0.0",
+  "description": "E-commerce Inventory System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.9",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14",
+    "dotenv": "^16.3.1"
+  }
+}

@@ -40,7 +40,7 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li>MondoDB</a></li>
+    <li>MongoDB</a></li>
   </ul>
 </details>
 
